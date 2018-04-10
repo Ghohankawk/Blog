@@ -2,7 +2,7 @@
 ===================================  
 大家好，我是胡桃泽·萨塔妮基亚·麦克道威尔，日常在这里看书学习，不说了，去找珈百璃了
 
-![github](./src/https://ghohankawk.github.io/images/avatar.jpg)  
+![github](https://ghohankawk.github.io/images/avatar.jpg)  
 
 读书感悟
 -----------------------------------  
